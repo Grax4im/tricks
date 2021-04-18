@@ -649,7 +649,6 @@
                 "tag": "P",
                 "texto": " The N-Box is a variation of the Box where the middle balls is passed between hands along a diagonal line, such that one hand is raising up to catch and slam the ball each cycle. The N-Box is one of the more difficult box variations, due to the speed and accuracy required from the throws and catches. Visually, the trick is quite appealing, especially when combined with other Box variations."
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -987,7 +986,68 @@
         "balls": "3",
         "description": [
             {
-                "tag": "SPAN"
+                "tag": "P",
+                "texto": "The Three Ball Cascade is the most basic juggling pattern, and the first trick any would-be juggler should learn. The Cascade is generally considered to be the easiest pattern, and forms the backbone of many other tricks. "
+            },
+            {
+                "tag": "P",
+                "texto": "To begin learning the pattern, it is important to make sure you are comfortable with throwing and catching a ball. It sounds silly, I know, but when first starting to juggle I found that my left hand (non-dominant) had a hard time accurately throwing the ball to my right. You will want to get very comfortable throwing the ball from you dominant hand to your non-dominant, and vice versa. Try to keep the height of the throws a little bit above your head. Once you have mastered this, you are ready to move on to the next step."
+            },
+            {
+                "tag": "IMG",
+                "texto": "http://libraryofjuggling.com/JugglingGifs/3balltricks/oneball_50000.gif"
+            },
+            {
+                "tag": "P",
+                "texto": "     It is at this second step that most jugglers begin dropping (short hand way to say that you have failed to catch your ball) a lot. As such, this is probably a good time to remind you that using tennis balls on a hard floor is not the best way to juggle. For beginners, I would highly recommend getting some good quality bean bags such as these ones from Dube. They are soft, don't bounce or roll (much), and are quite easy to catch."
+            },
+            {
+                "tag": "P",
+                "texto": "     Now that you have the proper juggling equipment, it is time to add in the second ball. This second ball is going to travel through the air with a similar trajectory as the first ball, except it is going to be thrown underneath that first ball, and travel in a different direction."
+            },
+            {
+                "tag": "IMG",
+                "texto": "http://libraryofjuggling.com/JugglingGifs/3balltricks/twoballcascade.gif"
+            },
+            {
+                "tag": "P",
+                "texto": "To start, hold a ball in each hand, and then throw one ball up in the same trajectory as step one. As that ball reaches it peak, you are going to throw the second ball up underneath it towards your other hand (the one that threw the first ball), then catch them both. You are going to want to make sure that you practice throwing the first ball from both hands. If that description confuses you, just focus on the animation above and try to copy its throws. This pattern is known as the Two Ball Cascade."
+            },
+            {
+                "tag": "P",
+                "texto": "     You must make sure not to pass the second ball horizontally to your other hand (shown below), as this is the way people often intuitively try and juggle two balls."
+            },
+            {
+                "tag": "IMG",
+                "texto": "http://libraryofjuggling.com/JugglingGifs/3balltricks/incorrect.gif"
+            },
+            {
+                "tag": "P",
+                "texto": "Once you are able to juggle two balls correctly without much trouble, you are ready to add in the third ball. The first pattern to learn with three balls is the flash, where every ball is thrown up and then caught again like so."
+            },
+            {
+                "tag": "img",
+                "texto": "http://libraryofjuggling.com/JugglingGifs/3balltricks/incorrect.gif" 
+            },
+            {
+                "tag": "P",
+                "texto": "The flash is very similar to the Two Ball Cascade, except you sneak in a third toss during the pause that occurs after you throw the first two balls. While the timing of this trick is slightly different than the standard Three Ball Cascade (notice there is still a period of time where all three balls are in the air), practicing the flash will improve your accuracy and throw speed. Once you can do the Three Ball Flash reliably without too many drops, you are ready to move onto the final step."
+            },
+             {
+                "tag": "P",
+                "texto": "     For the final step in learning the Three Ball Cascade, you will be combining all the skills learned thus far. Starting with three balls (two in your dominant hand), you are going two throw your first ball, and wait for it to reach its peak. Then you will throw the ball in your non-dominant hand, allowing for the first ball to land in your now empty hand. Once that second ball reaches its peak, you will throw the third ball from your dominant hand, clearing room for the second ball to be caught. And so the cycle continues, each time a ball reaches its peak, another one is thrown, freeing up a hand to catch the first ball. The animation below shows the pattern being run for five throws and catches."
+            },
+            {
+                "tag": "IMG",
+                "texto": "http://libraryofjuggling.com/JugglingGifs/3balltricks/runoffive.gif"
+            },
+            {
+                "tag": "P",
+                "texto": "Now that you have the basic pattern down, the only thing you have left to do is practice, practice, practice! When it comes down to it, that's all juggling is. No one is born good at juggling, the experts work hard for the talent they posses, and anybody can become as good with enough dedication and work. After practicing the Three Ball Cascade, you should see your throws becoming more accurate, your arm movements less noticeable, and the height required for you to run the pattern will decrease."
+            },
+            {
+                "tag": "P",
+                "texto": "Congratulations, you are now an official juggler. But this is just the beginning, there are still countless more patterns out there for you to try. Browse through the Library of Juggling to find some cool new tricks to learn. For a beginner, I would recommend Juggler's Tennis and the Half-Shower next. Good luck!"
             }
         ]
     },
@@ -999,7 +1059,6 @@
         "preRequisites": "Half-Shower, Juggler's Tennis",
         "balls": "3",
         "description": [
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -1012,7 +1071,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/reversecascadetwothrows.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -1301,7 +1359,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/rainbowarchestwo.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -1512,7 +1569,6 @@
         "preRequisites": "Fake Columns",
         "balls": "3",
         "description": [
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -1525,7 +1581,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/yoyotwo.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": " Once you have that part down, you can begin to incorporate the Yo-Yo into your normal Columns pattern, starting with just one or two in a row and working your way up to doing the trick constantly."
@@ -1566,7 +1621,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/factoryfake.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": " Practice this arm motion until you can execute it smoothly without interrupting the balls being thrown. Next we are going to add in the actual drop and catch. Start with a basic Fake Columns, and then start to do the pattern above, except this time you are going to release the ball once your hand reaches the other side, and then claw catch the center ball."
@@ -2046,7 +2100,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/georgianshuffletwo.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": " Make sure to catch the inside ball using only the first three fingers of your dominant hand, since you will need to use the other fingers to catch a second ball. Once you have the step above mastered, you are ready to add in the third ball. Start with two balls in your dominant hand, and one ball in your non-dominant. Then, do a multiplex and catch the inside ball just like in the previous step. Then, bring your non-dominant hand around and throw the ball in that hand, clearing space to catch the outside multiplexed ball. Finally, bring your dominant hand over and around the ball just thrown from your non-dominant hand, and catch it."
@@ -2635,7 +2688,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/krakenfull.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": " As shown, practice this on both sides. Notice how the final claw catch mirrors the claw catch performed at the beginning. That last claw catch signals the beginning of a new cycle (on the opposite side of your body). To juggle the full Kraken, simply make another vertical throw underneath the claw-caught ball, and repeat the same throws and catches that you've been practicing in the previous steps. By this point, your brain will likely be familiar enough with the pattern to repeat the cycle on its own, but if you get stuck, simply refer back the previous steps. The Kraken has an odd rhythm that will take some practice to master, so expect to spend a decent amount of time working with this pattern."
@@ -2673,7 +2725,6 @@
             {
                 "tag": "STRONG"
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -2890,7 +2941,6 @@
                 "tag": "P",
                 "texto": " As before, practice this extensively on both sides. You should now be ready to combine the first two steps. Start with one ball in each hand, arms crossed. Throw the first ball as you uncross your arms, and then throw the second ball in the same direction once your arms are level. Then, recross your arms in the opposite configuration and catch the first ball in your non-dominant hand, and the second ball in your dominant hand."
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -3297,7 +3347,6 @@
                 "tag": "IMG",
                 "texto": "https://libraryofjuggling.com/JugglingGifs/3balltricks/olasslow.gif"
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
@@ -4289,7 +4338,6 @@
                 "tag": "P",
                 "texto": " The Triazzle is a three ball pattern which uses a combination of Column, Cascade, and horizontal throws to create a highly geometric trick. With the help of a quick underarm carry, the balls form a triangle shape on each side of your body, making the pattern very lopsided during any given cycle."
             },
-            {},
             {
                 "tag": "P",
                 "texto": ""
